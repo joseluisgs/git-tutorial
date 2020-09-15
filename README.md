@@ -1,10 +1,10 @@
 # GIT Tutorial
 
-Tutorial de Git
+Tutorial de Git y GitHub
 
 ### Acerca de
 
-Tutorial de Git y Ejemplos usados en clase
+Tutorial de Git y GitHub de supervivencia a 2DAW y 2DAM. Ejemplos usados en clase. Escribe código limpio y ordenado :)
 
 ## Autor
 
