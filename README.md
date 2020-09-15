@@ -16,4 +16,4 @@ Tutorial de Git y GitHub de supervivencia a 2DAW y 2DAM. Ejemplos usados en clas
 
 ## Licencia
 
-Este proyecto esta licenciado bajo licencia **MIT**, si desea saber más, visite el fichero [LICENSE](https://github.com/joseluisgs/git-tutorial/blob/master/LICENSE) para su uso docente y educativo.
+Este proyecto esta licenciado bajo licencia **MIT**, si desea saber más, visite el fichero [LICENSE](https://github.com/joseluisgs/git-tutorial/blob/master/LISENCE) para su uso docente y educativo.
