@@ -1,6 +1,6 @@
 # GIT Tutorial
 
-Tutorial de Git y GitHub
+Tutorial de Git y GitHub para el desarrollo avanzado de código
 
 ### Acerca de
 
