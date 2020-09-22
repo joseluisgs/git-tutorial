@@ -1,12 +1,8 @@
-# GIT Tutorial
+# Cambios de JL González
 
-Tutorial de Git y GitHub para el desarrollo avanzado de código
+## Mis cambios y propuestas
 
-### Acerca de
-
-Tutorial de Git y GitHub de supervivencia a 2DAW y 2DAM. Ejemplos usados en clase. Escribe código limpio y ordenado :)
-
-## FICHEROS DE CAMBIOS
+Este es un ejemplo de fichero markdwon para hacer los cambios como indica en README.md
 
 ### ¿Cómo colaborar o corregir un cambio?
 
@@ -18,17 +14,3 @@ Para solucitar un cambio o ayudarme a pulir errores o a mejorar el contenido del
   - De la misma manera si queréis incorprar un gráfico o figura lo indicáis en qué página, o si es nueva donde iriía y subís ese recurso en la carpeta updates.
   - También podéis aportar referencias, herramientas y cosas útiles que os han servidor para dominar Git y GitHub.
 - Posteriormente hacéis un pull request y en la conversación me detallas algo de información y si el cambio se aprieba lo verás en la proxima versión.
-
-Gracias por colaborary entre todos mejoramos usando GitHub :smile:
-
-## Autor
-
-- [José Luis González Sánchez](https://twitter.com/joseluisgonsan) ![Twitter](https://img.shields.io/twitter/follow/joseluisgonsan?style=social)
-
-- [GitHub](https://github.com/joseluisgs) ![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)
-
-![GitHub](https://img.shields.io/github/last-commit/joseluisgs/git-tutorial)
-
-## Licencia
-
-Este proyecto esta licenciado bajo licencia **MIT**, si desea saber más, visite el fichero [LICENSE](https://github.com/joseluisgs/git-tutorial/blob/master/LISENCE) para su uso docente y educativo.
