@@ -15,4 +15,4 @@ Para solucitar un cambio o ayudarme a pulir errores o a mejorar el contenido del
   - También podéis aportar referencias, herramientas y cosas útiles que os han servidor para dominar Git y GitHub.
 - Posteriormente hacéis un pull request y en la conversación me detallas algo de información y si el cambio se aprueba lo verás en la próxima versión.
 
-Gracias por colaborary entre todos mejoramos usando GitHub :smile:
+Gracias por colaborary entre todos mejoramos usando GitHub. Espero vuestros pull request :smile:
