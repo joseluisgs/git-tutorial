@@ -5,6 +5,7 @@ Tutorial de Git y GitHub para el desarrollo avanzado de código
 ### Acerca de
 
 Tutorial de Git y GitHub de supervivencia a 2DAW y 2DAM. Ejemplos usados en clase. Escribe código limpio y ordenado :)
+
 ![GitHub](https://img.shields.io/github/last-commit/joseluisgs/git-tutorial)
 
 ## FICHEROS DE CAMBIOS
