@@ -27,9 +27,9 @@ s
 
 ## Autor
 
-- [José Luis González Sánchez](https://twitter.com/joseluisgonsan) ![Twitter](https://img.shields.io/twitter/follow/joseluisgonsan?style=social)
+- [José Luis González Sánchez](https://twitter.com/joseluisgonsan) 
 
-- [GitHub](https://github.com/joseluisgs) ![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)
+![Twitter](https://img.shields.io/twitter/follow/joseluisgonsan?style=social) ![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)
 
 
 ## Licencia
