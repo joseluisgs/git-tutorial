@@ -9,7 +9,7 @@ Tutorial de Git y GitHub para el desarrollo avanzado de código.
 
 - [GIT Tutorial](#git-tutorial)
   - [Acerca de](#acerca-de)
-  - [Contendios](#contendios)
+  - [Contenidos](#contenidos)
   - [Colaborar o nuevos contenidos o ejemplos](#colaborar-o-nuevos-contenidos-o-ejemplos)
     - [¿Cómo colaborar o corregir un cambio?](#cómo-colaborar-o-corregir-un-cambio)
   - [Autor](#autor)
@@ -21,7 +21,7 @@ Tutorial de Git y GitHub para el desarrollo avanzado de código.
 Tutorial de Git y GitHub de supervivencia a 2DAW y 2DAM. Ejemplos usados en clase. Escribe código limpio y ordenado :)
 Aprenderás a desenvolverte por uno de los mejores sistemas de control de versiones y levar tus prácticas y desarrollos a otro nivel.
 
-## Contendios
+## Contenidos
 - ¿Qué es Git?
 - Instalación
 - Repositorios de Git

@@ -9,7 +9,7 @@ Este es un ejemplo de fichero markdwon para hacer los cambios como indica en REA
 Para solicitar un cambio o ayudarme a pulir errores o a mejorar el contenido del curso y las trasparencias lo podéis hacer de la siguiente manera:
 
 - Siempre debéis hacer un fork del proyecto para trabajar con él.
-- Lo priemero es crear una rama con tu nombre de usuario de GitHub (vamos a ser ordenados)
+- Lo primero es crear una rama con tu nombre de usuario de GitHub (vamos a ser ordenados)
 - En la carpeta updates de tu rama añadís un fichero con vuestro nombre de GitHub para que en dicho fichero vayáis actualizando con las cosas que queráis aportar. Este fichero debe estar redactado usando [markdown](https://www.markdownguide.org/basic-syntax/).
   - Indicáis el número de la página de la presentación (por ejemplo página 34). Indicáis el texto y remarcáis la palabra o error detectado.
   - De la misma manera si queréis incorporar un gráfico o figura lo indicáis en qué página, o si es nueva donde iría y subís ese recurso en la carpeta updates.
