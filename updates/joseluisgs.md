@@ -2,11 +2,11 @@
 
 ## Mis cambios y propuestas
 
-Este es un ejemplo de fichero markdwon para hacer los cambios como indica en README.md
+Este es un ejemplo de fichero markdown para hacer los cambios como indica en README.md
 
 ### ¿Cómo colaborar o corregir un cambio?
 
-Para solicitar un cambio o ayudarme a pulir errores o a mejorar el contenido del curso y las trasparencias lo podéis hacer de la siguiente manera:
+Para solicitar un cambio o ayudarme a pulir errores o a mejorar el contenido del curso y las transparencias lo podéis hacer de la siguiente manera:
 
 - Siempre debéis hacer un fork del proyecto para trabajar con él.
 - Lo primero es crear una rama con tu nombre de usuario de GitHub (vamos a ser ordenados)
