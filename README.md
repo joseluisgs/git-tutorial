@@ -1,15 +1,17 @@
 # GIT Tutorial
 
-Tutorial de Git y GitHub para el desarrollo avanzado de código.
+Tutorial de Git, GitHub y GitKraken para el desarrollo avanzado de código.
 
 ![GitHub](https://img.shields.io/github/last-commit/joseluisgs/git-tutorial)
-
 
 ![assets/image.png](https://www.wallpapertip.com/wmimgs/250-2508431_github-wallpaper.jpg)
 
 - [GIT Tutorial](#git-tutorial)
   - [Acerca de](#acerca-de)
   - [Contenidos](#contenidos)
+  - [GIT](#git)
+  - [GitHub](#github)
+  - [GitKraken](#gitkraken)
   - [Colaborar o nuevos contenidos o ejemplos](#colaborar-o-nuevos-contenidos-o-ejemplos)
     - [¿Cómo colaborar o corregir un cambio?](#cómo-colaborar-o-corregir-un-cambio)
   - [Autor](#autor)
@@ -18,7 +20,8 @@ Tutorial de Git y GitHub para el desarrollo avanzado de código.
 
 ## Acerca de
 
-Tutorial de Git y GitHub de supervivencia a 2DAW y 2DAM. Ejemplos usados en clase. Escribe código limpio y ordenado :)
+Tutorial de Git y GitHub de supervivencia para mi alumnado de DAM, DAW y ASIR. Además de chuletas y Ejemplos usados en clase. Escribe código limpio y ordenado :)
+
 Aprenderás a desenvolverte por uno de los mejores sistemas de control de versiones y levar tus prácticas y desarrollos a otro nivel.
 
 ## Contenidos
@@ -32,6 +35,20 @@ Aprenderás a desenvolverte por uno de los mejores sistemas de control de versio
 - Git Flow
 - Herramientas
 - Trucos y consejos
+
+## GIT
+![imagen](https://miro.medium.com/max/1200/1*xYiF9i9FfVrZGBFoSkxnsw.jpeg)
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de de de un proyecto incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+## GitHub
+![imagen](https://cyberwomen2020.sre.gob.mx/img/github.png)
+GitHub es una forja plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador.
+
+## GitKraken
+![image](https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/axosoft-gitkraken-squiggle-landscape.png)
+GitKraken es una de las mejores herramientas para manejar tu repositorio Git y GitHub, puede soportar distintos perfiles, editores para conflictos de código, y mucho más.
+
+GitKraken es utilizado por empresas como Netflix, Tesla y Apple.
 
 ## Colaborar o nuevos contenidos o ejemplos
 
