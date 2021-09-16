@@ -25,6 +25,7 @@ Tutorial de Git y GitHub de supervivencia para mi alumnado de DAM, DAW y ASIR. A
 Aprenderás a desenvolverte por uno de los mejores sistemas de control de versiones y levar tus prácticas y desarrollos a otro nivel.
 
 ## Contenidos
+- Sistema de control de versiones
 - ¿Qué es Git?
 - Instalación
 - Repositorios de Git
@@ -34,6 +35,7 @@ Aprenderás a desenvolverte por uno de los mejores sistemas de control de versio
 - Resolución de conflictos
 - Git Flow
 - Herramientas
+- GitKraken
 - Trucos y consejos
 
 ## GIT
